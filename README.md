@@ -97,6 +97,6 @@ docker run -d -p 5000:5000 --name flaskapp flaskapp-autodeployer:latest
 
 ## ✍️ Author
 
-**Sayantan Samanta**
+**Piyush Kabra**
 
 Feel free to fork the repo and explore more improvements!
