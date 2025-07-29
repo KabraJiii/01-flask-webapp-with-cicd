@@ -19,7 +19,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 echo "Cloning Git repository..."
-                git branch: 'main', url: 'https://github.com/Sayantan2k24/01-flask-jenkins-docker-pytest.git'
+                git branch: 'main', url: 'https://github.com/KabraJiii/01-flask-webapp-with-cicd.git'
             }
         }
 
