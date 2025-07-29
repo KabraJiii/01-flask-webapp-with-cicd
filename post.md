@@ -24,7 +24,7 @@ The Jenkins pipeline automatically:
 
 🗂️ Clean code, structured folders, and logging utilities make this project a perfect template for **Flask + Jenkins CI/CD beginners**.
 
-📁 GitHub Repo: [https://github.com/Sayantan2k24/01-flask-jenkins-docker-pytest](https://github.com/Sayantan2k24/01-flask-jenkins-docker-pytest)
+📁 GitHub Repo: [https://github.com/KabraJiii/01-flask-webapp-with-cicd.git](https://github.com/KabraJiii/01-flask-webapp-with-cicd.git)
 
 💡 This project taught me a lot about **automating deployment workflows**, and I'd love to hear how others are using Jenkins with containerized Python apps!
 
